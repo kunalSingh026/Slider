@@ -24,7 +24,7 @@ Check out the live demo https://kunalsingh026.github.io/Slider/.
 ## Installation
 To get started with this project, clone the repository and open the project folder:
 ```bash
-git clone https://github.com/yourusername/car-slider-page.git
+git clone https:https://github.com/kunalSingh026/Slider
 cd car-slider-page
 ```
 
